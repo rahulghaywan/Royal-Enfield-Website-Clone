@@ -1,0 +1,468 @@
+/* Navbar CSS Section Starts Here */
+
+#navbarSupportedContent{
+    margin-left: 180px;
+    background-color: #0a0a0a;
+}
+
+#navbarSupportedContent ul{
+    background-color: #0a0a0a ;
+}
+#navbarSupportedContent ul li{
+   background-color: #0a0a0a ;
+}
+#navbarSupportedContent ul li a{
+    background-color:#0a0a0a;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+}
+#navbarSupportedContent ul li a:hover{
+    color: red;
+}
+.navbar-brand img{
+    margin: -13px;
+    width: 260px
+}
+form{
+    padding-right: 15px;
+}
+form button{
+    background-color: red;
+}
+form button i{
+    padding-right: 5px;
+    padding-left: 10px;
+}
+#searchicon{
+    color: white;
+    font-size: 32px;
+    padding-right: 20px;
+    padding-left: 6px;
+}
+/* Navbar CSS Section Ends Here */
+
+/* Image CSS Section Starts Here */
+
+#imagesection img{
+    width: 100%;
+}
+
+/* Image CSS Section Ends Here */
+
+/* Carousel CSS Section Starts Here */
+/* #carouselinner div img{
+    height: 500px;
+} */
+/* .carousel-control-prev{
+    padding-left: -97px;
+} */
+/* .carousel-control-next{
+    margin-right: -97px;
+} */
+/* Carousel CSS Section Starts Here */
+
+/* Multiple Image CSS Section Starts Here */
+
+#multipleimg{
+    width: 100%;
+    overflow: hidden;
+}
+#multipleimg div{
+    display: inline-block;
+    width: 25.1%;
+    margin-left: -4.8px;
+    overflow: hidden;
+    margin-bottom: -111px;
+}
+#multipleimg div img{
+    width: 100%;
+    cursor: pointer;
+    transition: all ease 1s;
+    /* padding-top: -50px; */
+}
+#multipleimg div img:hover{
+    transform: scale(1.08);
+    /* transition: ease-in-out 1s; */
+    /* transform: scale(1.05); */
+    /* transition: all ease 1s */
+}
+#multipleimg div p{
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    position: relative;
+    bottom: 87px;
+    padding-left: 22px;
+}
+
+/* Multiple Image CSS Section Ends Here */
+
+/* Image Call Part 1 CSS Section Starts Here */
+
+#divtypes1{
+    background-color: #212121;
+}
+#divtypes1 h1{
+    display: inline-block;
+    color: white;
+    font-size: 21px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+    margin-left: 32px;
+    font-weight: 700;
+}
+#divtypes1 ul{
+    display: inline-block;
+}
+#divtypes1 ul li{
+    display: inline-block;
+    color: white;
+    padding: 0px 30px;
+    border-right: 2px solid white;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+}
+#divtypes1 ul li:hover{
+    color: red;
+}
+#divtypes2 img{
+    width: 100%;
+}
+#typeslogo1{
+    margin-top: -24px;
+}
+#typeslogo1 img{
+    display: inline-block;
+    width: 275px;
+    margin-left: 72%;
+    margin-top: -50%;
+    margin-bottom: -50px;
+}
+#typeslogo2{
+    margin-top: -24px;
+}
+#typeslogo2 img{
+    display: inline-block;
+    width: 200px;
+    margin-left: 6%;
+    margin-top: -52%;
+    margin-bottom: -50px;
+}
+
+/* Image Call CSS Part 1 Section Ends Here */
+
+/* Bold text CSS Section Starts Here */
+
+#popular{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    background: #212121;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 58px;
+    color: white;
+    margin-bottom: 0px;
+}
+
+/* Bold text CSS Section Ends Here */
+
+/* Carousel 2 CSS Section Starts Here */
+
+#carouselpart2{
+    width: 100%;
+}
+/* #carouselauto1 img{
+    width: 100%!important;
+    height: 100%!important;
+    object-fit: cover;
+} */
+/* #carousel2total{
+    display: inline-block;
+    width: 25.1;
+    margin-left: -4.8px;
+    height: 100%;
+    object-fit: cover;
+} */
+#partheading{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    position: relative;
+    bottom: 315px;
+}
+#partheading:hover{
+    color: red;
+}
+#carouselauto1{
+    display: inline-block;
+    width: 25.1%;
+    margin-left: -4.8px;
+    height: 500px;
+}
+#carouselauto2{
+    display: inline-block;
+    width: 25.1%;
+    margin-left: -4.8px;
+    height: 500px;
+
+}
+#carouselauto3{
+    display: inline-block;
+    width: 25.1%;
+    margin-left: -4.8px;
+    height: 500px;
+
+}
+#carouselauto4{
+    display: inline-block;
+    width: 25.1%;
+    margin-left: -4.8px;
+    height: 500px;
+
+}
+#carouselinner div img{
+    width: 100%;
+    height: 425px;
+}
+#ano{
+    position: relative;
+    bottom: 70px;
+    background-color: black ;
+    opacity: .8;
+    padding: 20px;
+}
+h6{
+    display: block;
+    color: white;
+    text-align: right;
+    /* background-color: black ; */
+    /* opacity: .8; */
+    /* padding: 20px; */
+    /* position: relative; */
+    /* bottom: 70px; */
+    padding: 0px 0px 63px;
+    margin: 0px 0px -88px
+}
+h6:hover{
+    color: red;
+}
+/* h1{
+    display: block;
+    color: white;
+    text-align: right;
+    background-color: black ;
+    opacity: .8;
+    padding: 20px;
+    position: relative;
+    bottom: 70px;
+} */
+#ins{
+    font-size: 30px;
+    margin-left: 16px;
+}
+#ins:hover{
+    color: #aa08e5!important;
+}
+
+/* Carousel 2 CSS Section Ends Here */
+
+/* Footer 1 CSS Section Starts Here */
+
+/* #footertotal div{
+    text-align: center;
+    background: #212121;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 140px;
+    color: white;
+    margin-top: -107px;
+} */
+#footersection1{
+    /* display: inline-block; */
+    width: 100%;
+    background: #212121;
+}
+#footertotal1{
+    color: white;
+    margin-top: -107px;
+    text-align: center;
+    padding-top: 85px;
+    padding-bottom: 40px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+#footertotal1 a:hover{
+    color: red;
+}
+#footer1{
+    display: inline-block;
+    width: 25.1%;
+    margin-left: -4.8px;
+}
+#footer2{
+    display: inline-block;
+    width: 25.1%;
+    margin-left: -4.8px;
+}
+#footer3{
+    display: inline-block;
+    width: 25.1%;
+    margin-left: -4.8px;
+}
+#footer4{
+    display: inline-block;
+    width: 25.1%;
+    margin-left: -4.8px;
+}
+#arrow{
+    padding-left: 10px;
+}
+#foo{
+    font-size: 55px;
+    font-weight: 100;
+    padding-bottom: 16px;
+}
+
+/* Footer 1 CSS Section Ends Here */
+
+/* Footer 2 CSS Section Starts Here */
+
+#footersection2{
+    width: 100%;
+    background: #e5e3e3;
+    text-align: right;
+}
+/* #footersection2 div i{
+    text-decoration: none;
+} */
+p{
+    display: inline-block;
+    margin-bottom: 10px;
+    font-weight: 500;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+p span{
+    margin-right: 12px
+}
+#face{
+    font-size: 30px;
+    margin-right: 17px;
+    color: black;
+    text-decoration: none
+}
+#face:hover{
+    color: #4867aa;
+}
+#twit{
+    font-size: 30px;
+    margin-right: 17px;
+    color: black;
+    text-decoration: none
+}
+#twit:hover{
+    color: #1da1f2;
+}
+#yout{
+    font-size: 30px;
+    margin-right: 17px;
+    color: black;
+    text-decoration: none
+}
+#yout:hover{
+    color: #ff0000;
+}
+#insta{
+    font-size: 30px;
+    margin-right: 50px;
+    color: black;
+    text-decoration: none
+}
+#insta:hover{
+    color: #aa08e5;
+}
+
+/* Footer 2 CSS Section Ends Here */
+
+/* Footer 3 CSS Section Starts Here */
+
+#footersection3{
+    width: 100%;
+    background: #e5e3e3;
+    margin: auto;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    display: flex;
+}
+#footersection3 div{
+    display: inline-block;
+    /* margin-right: 15px; */
+    /* margin-left: 55px; */
+    margin: -10px 38px;
+    color: black;
+}
+#footersection3 h5{
+    font-weight: 700;
+}
+#footersection3 div ul{
+    margin-top: 20px;
+}
+#footersection3 ul li{
+    display: block;
+    margin-left: -30px;
+    font-size: 13.5px;
+    font-weight: 600;
+    margin-top: 11px;
+}
+#footersection3 ul li:hover{
+    color: red;
+
+}
+/* #footer3content1 ul{ */
+    /* margin-right: 0px; */
+    /* display: inline-block; */
+    /* padding-top: 10px; */
+/* } */
+
+/* Footer 3 CSS Section Ends Here */
+
+/* Footer 4 CSS Section Starts Here */
+
+#footersection4{
+    width: 100%;
+    background: #e5e3e3;
+    /* padding-top: 0px; */
+    /* padding-bottom: -20px; */
+}
+#footersection4 div{
+    display: inline-block;
+    /* margin-right: 30px; */
+    margin-left: 31px;
+    margin-top: -19px;
+    /* padding-bottom: -19px; */
+}
+#footersection4 div ul{
+    display: inline-block;
+    margin-left: 605px;
+}
+#footersection4 div ul li{
+    display: inline-block;
+    border-right: 1px solid grey;
+    padding: 0px 7px;
+    font-size: 10px;
+    font-weight: 600;
+}
+#footersection4 div ul li:hover{
+    color: red;
+}
+#footerp{
+    font-size: 10px;
+    font-weight: 700;
+    padding: 34px 0px 0px 0px
+}
+/* Footer 4 CSS Section Ends Here */

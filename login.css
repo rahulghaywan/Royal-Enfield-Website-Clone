@@ -1,0 +1,392 @@
+body{
+    background-image: url(./images/login-banner.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: left; */
+    background-position: center;
+    height: 713px;
+}
+
+/* Navbar CSS Section Starts Here */
+
+#navbarSupportedContent{
+    margin-left: 180px;
+    background-color: #0a0a0a;
+}
+
+#navbarSupportedContent ul{
+    background-color: #0a0a0a ;
+}
+#navbarSupportedContent ul li{
+   background-color: #0a0a0a ;
+}
+#navbarSupportedContent ul li a{
+    background-color:#0a0a0a;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+}
+#navbarSupportedContent ul li a:hover{
+    color: red;
+}
+.navbar-brand img{
+    margin: -13px;
+    width: 260px
+}
+form{
+    padding-right: 15px;
+}
+form button{
+    background-color: red;
+}
+form button i{
+    padding-right: 5px;
+    padding-left: 10px;
+}
+#searchicon{
+    color: white;
+    font-size: 32px;
+    padding-right: 20px;
+    padding-left: 6px;
+}
+/* Navbar CSS Section Ends Here */
+
+/* Login Section CSS Ends Here */
+
+/* #loginform{ */
+    /* width: 100% !important; */
+    /* margin-top: 75px; */
+    /* color: white; */
+/* } */
+/* #loginform div{
+    width: 100%;
+    display: inline-block;
+    margin: 0px 0px 0px -100px!important;
+    padding-right: 0px;
+}
+#uname{
+    display: flex;
+    margin-left: 0px!important;
+    margin-top: 0px!important;
+    padding-left: 17px;
+}
+#pass{
+    display: flex;
+    margin-top: -82px!important;
+    margin-left: 351px;
+    padding-left: 17px;
+
+}
+#divh6{
+    width: 100%;
+}
+#divh6 h6{
+    display: inline-block;
+} */
+/* #divh6 input{ */
+    /* width: 30%; */
+    /* width: 49%; */
+
+/* } */
+/* #divh6 h6{ */
+    /* display: inline-block; */
+/* } */
+/* #loginform h4{ */
+    /* text-align: center; */
+    /* margin-bottom: 20px; */
+    /* letter-spacing: .5px; */
+    /* font-size: 26px; */
+    /* margin-left: 95px; */
+    /* margin-left: 0px; */
+/* } */
+/* .form-control{ */
+    /* display: inline-block; */
+    /* border-radius: 0px; */
+    /* height: 50px; */
+    /* width: 310px; */
+    /* font-weight: 700; */
+    /* position: relative; */
+/* } */
+/* #loginbtn{
+    height: 50px;
+    width: 310px;
+    display: inline-block;
+    font-weight: 600;
+}
+.bg-transparent{
+    background-color: transparent !important;
+}
+.text-white::placeholder{
+    color: white !important;
+}
+.font-weight::placeholder{
+    font-weight: bold !important;
+}
+#forgotpass{
+    margin-left: 351px;
+    margin-top: -44px;
+    font-weight: 700;
+}
+#forgotpass a{
+    color: white!important;
+}
+#forgotpass a:hover{
+    color: red!important;
+}
+h6{
+    color: red;
+}
+#passh6{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 351px;
+} */
+
+/* Login Section CSS Ends Here */
+
+/* Login Section CSS Ends Here */
+
+/* #loginform{ */
+    /* width: 100% !important; */
+    /* margin-top: 75px; */
+    /* color: white; */
+/* } */
+/* #loginform div{
+    width: 100%;
+    display: inline-block;
+    margin: 0px 0px 0px -100px!important;
+    padding-right: 0px;
+}
+#uname{
+    display: flex;
+    margin-left: 0px!important;
+    margin-top: 0px!important;
+    padding-left: 17px;
+}
+#pass{
+    display: flex;
+    margin-top: -82px!important;
+    margin-left: 351px;
+    padding-left: 17px;
+
+}
+#divh6{
+    width: 100%;
+}
+#divh6 h6{
+    display: inline-block;
+} */
+/* #divh6 input{ */
+    /* width: 30%; */
+    /* width: 49%; */
+/* } */
+/* #divh6 h6{
+    display: inline-block;
+} */
+/* #loginform h4{ */
+    /* text-align: center; */
+    /* margin-bottom: 20px; */
+    /* letter-spacing: .5px; */
+    /* font-size: 26px; */
+    /* margin-left: 95px; */
+    /* margin-left: 0px; */
+/* } */
+/* .form-control{ */
+    /* display: inline-block; */
+    /* border-radius: 0px; */
+    /* height: 50px; */
+    /* width: 310px; */
+    /* font-weight: 700; */
+    /* position: relative; */
+/* } */
+/* #loginbtn{
+    height: 50px;
+    width: 310px;
+    display: inline-block;
+    font-weight: 600;
+}
+.bg-transparent{
+    background-color: transparent !important;
+}
+.text-white::placeholder{
+    color: white !important;
+}
+.font-weight::placeholder{
+    font-weight: bold !important;
+}
+#forgotpass{
+    margin-left: 351px;
+    margin-top: -44px;
+    font-weight: 700;
+}
+#forgotpass a{
+    color: white!important;
+}
+#forgotpass a:hover{
+    color: red!important;
+}
+h6{
+    color: red;
+}
+#passh6{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 351px;
+} */
+
+/* Login Section CSS Ends Here */
+
+/* Login Section CSS Starts Here */
+
+#loginform{
+    margin-top: 60px;
+    color: white;
+}
+#loginform div{
+    width: 115%;
+    display: inline-block;
+}
+#divh6{
+    width: 100%;
+}
+#divh6 h6{
+    display: inline-block;
+}
+#divh6 input{
+    /* width: 30%; */
+    width: 41%;
+}
+#loginform h4{
+    text-align: center;
+    margin-bottom: 20px;
+    letter-spacing: .5px;
+    font-size: 26px;
+    margin-left: 95px;
+    margin-left: 0px;
+}
+.form-control{
+    display: inline-block;
+    border-radius: 0px;
+    height: 50px;
+    width: 310px;
+    font-weight: 700;
+    /* position: relative; */
+}
+#loginbtn{
+    height: 50px;
+    width: 339px;
+    display: inline-block;
+    font-weight: 600;
+    margin-top: 25px;
+}
+.bg-transparent{
+    background-color: transparent !important;
+}
+.text-white::placeholder{
+    color: white !important;
+}
+.font-weight::placeholder{
+    font-weight: bold !important;
+}
+#forgotpass{
+    margin-left: 372px;
+    margin-top: -44px;
+    font-weight: 700;
+}
+#pass{
+    margin-left: 24px;
+    padding-left: 17px;
+}
+#forgotpass a{
+    color: white!important;
+}
+#forgotpass a:hover{
+    color: red!important;
+}
+/* Login Section CSS Ends Here */
+
+/* Create Account Section CSS Ends Here */
+
+#createacc{
+    margin-top: 80px;
+    margin-left: 500px;
+    /* color: white; */
+    text-align: center;
+    border-radius: 0px;
+}
+#createacc h4{
+    color: white;
+}
+#createacc div a{
+    text-decoration: none;
+    /* color: red; */
+    color: black;
+}
+#createaccbtn{
+    margin-left: -10px;
+    margin-top: 10px;
+}
+.btn{
+    border-radius: 0px;
+    margin-top: 0px;
+}
+#createacc div i{
+    color: black;
+        padding-right: 5px;
+        padding-left: 7px;
+}
+/* Create Account Section CSS Ends Here */
+
+/* Sign In Via Section CSS Starts Here */
+
+#signacc{
+    /* display: inline-block; */
+    margin-top: 40px;
+    margin-left: 500px;
+    color: white;
+    text-align: center;
+    border-radius: 0px;
+    width: 33%;
+}
+.m-41{
+    display: inline-block;
+    width: 117%;
+}
+#signacc h4{
+    margin-left: -89px;
+}
+#signaccbtn1{
+    /* display: inline-block; */
+    margin-left: -518px;
+    margin-top: 10px;
+    font-weight: 600;
+    /* padding-right: 50px; */
+}
+#signaccbtn2{
+    /* display: inline-block; */
+    margin-left: -81px;
+    margin-top: -83px;
+    font-weight: 600;
+    padding-right: 7px;
+}
+#signaccbtn3{
+    /* display: inline-block; */
+    margin-left: 332px;
+    margin-top: -147px;
+    font-weight: 600;
+    padding-right: 6px;
+}
+.btn{
+    border-radius: 0px;
+    margin-top: 0px;
+}
+#signacc div i{
+    color: white;
+    padding-right: 5px;
+    padding-left: 10px;
+}
+#signacc div a{
+    color: white;
+}
+
+/* Sign In Via Section CSS Ends Here */
